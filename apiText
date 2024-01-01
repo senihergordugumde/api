@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Ummuhan Avci",
+      "howToBookingMeeting": "Cömert ve açık sözlü bir yaklaşım sergileyin Onlara ne zaman müsait olduklarını sorun, böylece programlarını buna göre düzenleyebilirler.",
+      "happensCause": "Cs tipleri, yürürlükte olan güvenilir süreçlere güvenme eğilimindedir ve yeni bir çözümü değerlendirmekte zorlanabilirler. Zaman içinde güven kazanmanız gerekecektir, ancak onlara incelemeleri için bol miktarda bilgi vererek ve hemen görüşmeleri için baskı yapmayarak başlayabilirsiniz.",
+      "tryThis": [
+        {
+          "try1": "27 Şubat günü saat 14:00'te ya da 28 Şubat günü saat 11:00'de buluşmak için müsait misiniz?",
+          "try2": "Buraya konuyla ilgili pek çok bilgi ekledim, ancak sorularınızı yanıtlamaktan memnuniyet duyarım.",
+          "try3": "200'den fazla şirket bize güveniyor.."
+        }
+      ]
+    },
+    {
+      "name": "Bill Gates",
+      "howToBookingMeeting": "Ona toplantı için en uygun zaman sorun. Böylece programında size özel bir yer ayırabilir.",
+      "happensCause": "C tipleri genellikle yazılı konuşmaları tercih eder, bu nedenle onları bir toplantıya dahil etmek zor olabilir. Ürününüzün yeteneklerini kanıtlayabilir, yeterli bilgi sağlayabilir ve onların zamanına değdiğini gösterebilirseniz, bir toplantı ayarlamanız olasıdır.",
+      "tryThis": [
+        {
+          "try1": "Önümüzdeki hafta sizin için en uygun saat hangisi? Çarşamba günü saat 14:00'te mi yoksa Perşembe günü saat 11:00'de mi?",
+          "try2": "Kendi hızınızda inceleyebilmeniz için ilgili belgeleri buraya ekledim.",
+          "try3": "Bu konuyu görüşmek üzere önümüzdeki Salı günü saat 15:00'te buluşmak için müsait misiniz?"
+        }
+      ]
+    },
+    {
+      "name": "Oguz Alper Oktem",
+      "howToBookingMeeting": "Lafı dolandıran sorularla kafalarını karıştırmak yerine müsait olduğunuzu belirtin. Bir sonraki toplantınız için heyecanınızı paylaşın",
+      "happensCause": "Dc tipleri, her şeyin bir amaca hizmet etmesini isteyen ve sürekli olarak zamanı veya kaynakları tüketen şeyleri azaltmaya çalışan inanılmaz derecede hedef odaklı insanlardır. Eğer ürününüz başarılı olma planlarında ölçülebilir bir fark yaratmayacaksa, bunu istemeyeceklerdir. Onlara bir toplantıya katılmaları için yeterli bilgi verin.",
+      "tryThis": [
+        {
+          "try1": "Bugün [potansiyel müşterinin rolünün] karşılaştığı en büyük verimsizlik XYZ'dir. Bu toplantıya katılmanızın nedeni zaten bildiğiniz şeyleri duymak değil. Bu toplantıyı, sorunu çözmede neden en iyi olduğumuzu anlayabilmeniz için yapmalısınız.",
+          "try2": "X işini yapmak için harcadığınız zamanı %25 azaltacağız.",
+          "try3": "İlk ayınızda verimliliğinizi %10 artırabiliriz."
+        }
+      ]
+    }
+  ]
+}
