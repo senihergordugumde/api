@@ -1,6 +1,7 @@
 {
-  "users": [
-    {
+  "data": {
+     "Users": [
+       {
       "name": "Ummuhan Avci",
       "howToBookingMeeting": "Cömert ve açık sözlü bir yaklaşım sergileyin Onlara ne zaman müsait olduklarını sorun, böylece programlarını buna göre düzenleyebilirler.",
       "happensCause": "Cs tipleri, yürürlükte olan güvenilir süreçlere güvenme eğilimindedir ve yeni bir çözümü değerlendirmekte zorlanabilirler. Zaman içinde güven kazanmanız gerekecektir, ancak onlara incelemeleri için bol miktarda bilgi vererek ve hemen görüşmeleri için baskı yapmayarak başlayabilirsiniz.",
@@ -11,6 +12,7 @@
           "try3": "200'den fazla şirket bize güveniyor.."
         }
       ]
+      
     },
     {
       "name": "Bill Gates",
@@ -34,7 +36,8 @@
           "try2": "X işini yapmak için harcadığınız zamanı %25 azaltacağız.",
           "try3": "İlk ayınızda verimliliğinizi %10 artırabiliriz."
         }
+      ]}
       ]
     }
-  ]
+  
 }
