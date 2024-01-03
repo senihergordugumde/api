@@ -3,6 +3,7 @@
      "Users": [
        {
       "name": "Ummuhan Avci",
+      "characterType": "Cs",
       "descr": "Associate Professor At Bartin University",
       "howToBookingMeeting": "Cömert ve açık sözlü bir yaklaşım sergileyin Onlara ne zaman müsait olduklarını sorun, böylece programlarını buna göre düzenleyebilirler.",
       "happensCause": "Cs tipleri, yürürlükte olan güvenilir süreçlere güvenme eğilimindedir ve yeni bir çözümü değerlendirmekte zorlanabilirler. Zaman içinde güven kazanmanız gerekecektir, ancak onlara incelemeleri için bol miktarda bilgi vererek ve hemen görüşmeleri için baskı yapmayarak başlayabilirsiniz.",
@@ -17,6 +18,7 @@
     },
     {
       "name": "Bill Gates",
+      "characterType": "C",
       "descr": "Co-chair, Bill & Melinda Gates Foundation",
       "howToBookingMeeting": "Ona toplantı için en uygun zaman sorun. Böylece programında size özel bir yer ayırabilir.",
       "happensCause": "C tipleri genellikle yazılı konuşmaları tercih eder, bu nedenle onları bir toplantıya dahil etmek zor olabilir. Ürününüzün yeteneklerini kanıtlayabilir, yeterli bilgi sağlayabilir ve onların zamanına değdiğini gösterebilirseniz, bir toplantı ayarlamanız olasıdır.",
@@ -30,6 +32,7 @@
     },
     {
       "name": "Oguz Alper Oktem",
+      "characterType": "Dc",
       "descr": "Founder, Martı",
       "howToBookingMeeting": "Lafı dolandıran sorularla kafalarını karıştırmak yerine müsait olduğunuzu belirtin. Bir sonraki toplantınız için heyecanınızı paylaşın",
       "happensCause": "Dc tipleri, her şeyin bir amaca hizmet etmesini isteyen ve sürekli olarak zamanı veya kaynakları tüketen şeyleri azaltmaya çalışan inanılmaz derecede hedef odaklı insanlardır. Eğer ürününüz başarılı olma planlarında ölçülebilir bir fark yaratmayacaksa, bunu istemeyeceklerdir. Onlara bir toplantıya katılmaları için yeterli bilgi verin.",
