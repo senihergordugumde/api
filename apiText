@@ -17,16 +17,16 @@
       
     },
     {
-      "name": "Billi Gates",
-      "characterType": "C",
+      "name": "Vahit Keskin",
+      "characterType": "CD",
       "descr": "Co-chair, Bill & Melinda Gates Foundation",
-      "howToBookingMeeting": "Ona toplantı için en uygun zaman sorun. Böylece programında size özel bir yer ayırabilir.",
-      "happensCause": "C tipleri genellikle yazılı konuşmaları tercih eder, bu nedenle onları bir toplantıya dahil etmek zor olabilir. Ürününüzün yeteneklerini kanıtlayabilir, yeterli bilgi sağlayabilir ve onların zamanına değdiğini gösterebilirseniz, bir toplantı ayarlamanız olasıdır.",
+      "howToBookingMeeting": "Yaklaşan toplantınız için heyecanınızı ifade edin Onlara tek seferlik bir seçenek sunun ve işe yarayıp yaramadığını sorun. Güçlü ve açık sözlü olun",
+      "happensCause": "CD tipleri çok şüphecidir, bu nedenle onlar için gerçekten iyi bir nedeniniz yoksa onları aramanız zor olabilir. Eğer ilgileniyorlarsa, size ulaşacaklardır, ancak çok fazla takip ederseniz, ürün hakkında mantıksız iddialarda bulunursanız veya kişisel hitaplar kullanmaya çalışırsanız, muhtemelen sizi geri çevireceklerdir.",
       "tryThis": [
         {
-          "try1": "Önümüzdeki hafta sizin için en uygun saat hangisi? Çarşamba günü saat 14:00'te mi yoksa Perşembe günü saat 11:00'de mi?",
-          "try2": "Kendi hızınızda inceleyebilmeniz için ilgili belgeleri buraya ekledim.",
-          "try3": "Bu konuyu görüşmek üzere önümüzdeki Salı günü saat 15:00'te buluşmak için müsait misiniz?"
+          "try1": "Önümüzdeki Salı günü saat 14:00'te görüşmek için müsait misiniz?",
+          "try2": "Ürünümüzün ekip verimliliğinde ölçülebilir iyileştirmeler yapmak için nasıl çalıştığı hakkında daha fazla bilgi veren iki çalışma ekledim.",
+          "try3": "Biz 20 yıldır varız ve 2.000'den fazla işletmenin ekiplerinin verimliliğini artırmasına yardımcı olduk..."
         }
       ]
     },
