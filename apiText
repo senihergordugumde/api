@@ -59,51 +59,7 @@
           }
         ]}
         ]
-      },
-    {
-        "name": "Oguz Alper Oktem",
-        "characterType": "Dc",
-        "descr": "Founder, Martı",
-        "howToBookingMeeting": "Lafı dolandıran sorularla kafalarını karıştırmak yerine müsait olduğunuzu belirtin. Bir sonraki toplantınız için heyecanınızı paylaşın",
-        "happensCause": "Dc tipleri, her şeyin bir amaca hizmet etmesini isteyen ve sürekli olarak zamanı veya kaynakları tüketen şeyleri azaltmaya çalışan inanılmaz derecede hedef odaklı insanlardır. Eğer ürününüz başarılı olma planlarında ölçülebilir bir fark yaratmayacaksa, bunu istemeyeceklerdir. Onlara bir toplantıya katılmaları için yeterli bilgi verin.",
-        "tryThis": [
-          {
-            "try1": "Bugün [potansiyel müşterinin rolünün] karşılaştığı en büyük verimsizlik XYZ'dir. Bu toplantıya katılmanızın nedeni zaten bildiğiniz şeyleri duymak değil. Bu toplantıyı, sorunu çözmede neden en iyi olduğumuzu anlayabilmeniz için yapmalısınız.",
-            "try2": "X işini yapmak için harcadığınız zamanı %25 azaltacağız.",
-            "try3": "İlk ayınızda verimliliğinizi %10 artırabiliriz."
-          }
-        ]}
-        ]
-      },
-    {
-        "name": "Oguz Alper Oktem",
-        "characterType": "Dc",
-        "descr": "Founder, Martı",
-        "howToBookingMeeting": "Lafı dolandıran sorularla kafalarını karıştırmak yerine müsait olduğunuzu belirtin. Bir sonraki toplantınız için heyecanınızı paylaşın",
-        "happensCause": "Dc tipleri, her şeyin bir amaca hizmet etmesini isteyen ve sürekli olarak zamanı veya kaynakları tüketen şeyleri azaltmaya çalışan inanılmaz derecede hedef odaklı insanlardır. Eğer ürününüz başarılı olma planlarında ölçülebilir bir fark yaratmayacaksa, bunu istemeyeceklerdir. Onlara bir toplantıya katılmaları için yeterli bilgi verin.",
-        "tryThis": [
-          {
-            "try1": "Bugün [potansiyel müşterinin rolünün] karşılaştığı en büyük verimsizlik XYZ'dir. Bu toplantıya katılmanızın nedeni zaten bildiğiniz şeyleri duymak değil. Bu toplantıyı, sorunu çözmede neden en iyi olduğumuzu anlayabilmeniz için yapmalısınız.",
-            "try2": "X işini yapmak için harcadığınız zamanı %25 azaltacağız.",
-            "try3": "İlk ayınızda verimliliğinizi %10 artırabiliriz."
-          }
-        ]}
-        ]
-      },
-    {
-        "name": "Oguz Alper Oktem",
-        "characterType": "Dc",
-        "descr": "Founder, Martı",
-        "howToBookingMeeting": "Lafı dolandıran sorularla kafalarını karıştırmak yerine müsait olduğunuzu belirtin. Bir sonraki toplantınız için heyecanınızı paylaşın",
-        "happensCause": "Dc tipleri, her şeyin bir amaca hizmet etmesini isteyen ve sürekli olarak zamanı veya kaynakları tüketen şeyleri azaltmaya çalışan inanılmaz derecede hedef odaklı insanlardır. Eğer ürününüz başarılı olma planlarında ölçülebilir bir fark yaratmayacaksa, bunu istemeyeceklerdir. Onlara bir toplantıya katılmaları için yeterli bilgi verin.",
-        "tryThis": [
-          {
-            "try1": "Bugün [potansiyel müşterinin rolünün] karşılaştığı en büyük verimsizlik XYZ'dir. Bu toplantıya katılmanızın nedeni zaten bildiğiniz şeyleri duymak değil. Bu toplantıyı, sorunu çözmede neden en iyi olduğumuzu anlayabilmeniz için yapmalısınız.",
-            "try2": "X işini yapmak için harcadığınız zamanı %25 azaltacağız.",
-            "try3": "İlk ayınızda verimliliğinizi %10 artırabiliriz."
-          }
-        ]}
-        ]
       }
+    
   
 }
